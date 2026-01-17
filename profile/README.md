@@ -1,12 +1,20 @@
-## Hi there 👋
+# Readme-Profesional
+Generación readme con integrantes de la organización.
 
-<!--
+Nombre del grupo:
+Grupo 2
 
-**Here are some ideas to get you started:**
+Integrantes:
+Marily Yojana Botina Galeano - 222034053
+Daniel Alejandro Lasso Molina - 222034024
+Omar Jhon Hualpa Ascuntar - 220034146
+Nidia Jael Muñoz Oviedo - 222034025
+Henry Fabian Guillen Villacorte - 222034041
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Información de los Autores:
+
+Henry Fabian Guillen Villacorte:
+Soy Henry Guillen, desarrollador de software con enfoque en backend e inteligencia artificial. Trabajo principalmente con Python, Java y PostgreSQL, y me interesa diseñar soluciones escalables, eficientes y basadas en datos.
+
+
+Stack tecnologico:
