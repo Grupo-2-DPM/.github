@@ -34,6 +34,9 @@ Soy Omar Hualpa, desarrollador de software con interés en aplicaciones web y ar
 * **Bases de Datos:** PostgreSQL, MySQL.
 * **SO:** Administración básica de Linux.
 
+Marily Yojana Botina Galeano:
+Mi nombre es Marily Botina, soy estudiante y tengo un interés particular en el desarrollo de software orientado principalmente al frontend. Cuento con conocimientos básicos en Python y PostgreSQL.Me motiva seguir fortaleciendo mis habilidades técnicas y profundizar en el aprendizaje y aplicación de metodologías ágiles, con el fin de mejorar la calidad, eficiencia y organización en los procesos de desarrollo de software.
+
 Descripcion del problema:
 Actualmente, los estudiantes de pregrado enfrentan dificultades para acceder a herramientas integrales, accesibles y cómodas que les permitan prepararse de manera efectiva para el examen Saber Pro, requisito indispensable para la graduación en las instituciones de educación superior. La oferta existente suele ser dispersa, poco personalizada o de difícil acceso, lo que limita una preparación académica estructurada y acorde a las necesidades reales de los estudiantes.
 
