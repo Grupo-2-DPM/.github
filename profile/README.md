@@ -24,6 +24,10 @@ Daniel Alejandro Lasso Molina:  [github.com/Gebertwo](https://github.com/Gebertw
 
 **Desarrollador Backend** con dominio en **TypeScript, JavaScript y Python**. Me especializo en el desarrollo de aplicaciones robustas utilizando **Node.js** y **Django**, con un manejo experto de bases de datos relacionales como **PostgreSQL** y **MySQL**. 
 
+Omar Jhon Hualpa Ascuntar:  
+Soy Omar Hualpa, desarrollador de software con interés en aplicaciones web y arquitectura de sistemas. Manejo principalmente C#, .NET y SQL, y me enfoco en crear soluciones modulares, eficientes y mantenibles, integrando buenas prácticas de desarrollo colaborativo.
+
+
 ### Especialidades:
 * **Backend:** Node.js, Django.
 * **Lenguajes:** TypeScript, JavaScript, Python.
