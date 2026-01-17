@@ -16,5 +16,7 @@ Información de los Autores:
 Henry Fabian Guillen Villacorte:
 Soy Henry Guillen, desarrollador de software con enfoque en backend e inteligencia artificial. Trabajo principalmente con Python, Java y PostgreSQL, y me interesa diseñar soluciones escalables, eficientes y basadas en datos.
 
+Nidia Jael Muñoz Oviedo:
+Estudiante y entusiasta del desarrollo de software, con conocimientos básicos en Python, JavaScript, TypeScript y PostgreSQL. Me interesa seguir aprendiendo y fortaleciendo mis habilidades en programación y tecnología a través de proyectos prácticos.
 
 Stack tecnologico:
