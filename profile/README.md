@@ -34,10 +34,17 @@ Soy Omar Hualpa, desarrollador de software con interés en aplicaciones web y ar
 Marily Yojana Botina Galeano:
 Mi nombre es Marily Botina, soy estudiante y tengo un interés particular en el desarrollo de software orientado principalmente al frontend. Cuento con conocimientos básicos en Python y PostgreSQL.Me motiva seguir fortaleciendo mis habilidades técnicas y profundizar en el aprendizaje y aplicación de metodologías ágiles, con el fin de mejorar la calidad, eficiencia y organización en los procesos de desarrollo de software.
 
-Descripcion del problema:
-Actualmente, los estudiantes de pregrado enfrentan dificultades para acceder a herramientas integrales, accesibles y cómodas que les permitan prepararse de manera efectiva para el examen Saber Pro, requisito indispensable para la graduación en las instituciones de educación superior. La oferta existente suele ser dispersa, poco personalizada o de difícil acceso, lo que limita una preparación académica estructurada y acorde a las necesidades reales de los estudiantes.
+### Problema Identificado:
+La presentación de las pruebas Saber Pro es un requisito fundamental para titularse en Colombia. Alcanzar un alto desempeño requiere que el estudiante refuerce sus conocimientos, realice simulacros y analice sistemáticamente sus resultados. 
+
+Sin embargo, actualmente no existe una plataforma especializada que acompañe al estudiante en estas actividades de forma estructurada y eficiente, lo que genera procesos de preparación poco optimizados y una inversión innecesariamente alta de tiempo y esfuerzo para lograr buenos resultados.
+
 
 Ante esta situación, se identifica la necesidad de desarrollar una plataforma web que centralice recursos académicos, facilite el estudio autónomo y brinde un entorno flexible y accesible para la preparación del examen Saber Pro. Esta solución busca apoyar a los estudiantes en su proceso de aprendizaje, optimizar su rendimiento académico y contribuir a una preparación más equitativa y eficiente para la evaluación.
+
+### Vision Producto
+DeepSaffix es una herramienta que agiliza y estructura el proceso de preparación para la prueba Saber Pro. A través de una plataforma especializada, analiza resultados y refuerza actividades de alto impacto, optimizando el tiempo de estudio y haciendo más eficiente el esfuerzo del estudiante para alcanzar un mejor desempeño.
+
 
 Stack tecnologico:
 -React.js
