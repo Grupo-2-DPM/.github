@@ -51,3 +51,7 @@ Stack tecnologico:
 -Typescript
 -Java
 -PostgresSQL
+
+
+Modelo entidad relacion:  
+![Mi foto](ModeloEntidadRelacion.png)
