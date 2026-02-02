@@ -54,4 +54,4 @@ Stack tecnologico:
 
 
 Modelo entidad relacion:  
-![Mi foto](ModeloEntidadRelacion.png)
+![ModeloEntidadRelacion](./Modelo%20Entidad%20Relacion.png)
