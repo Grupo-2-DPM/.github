@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 DeepSaffix
+# DeepSaffix
 ### Optimización Inteligente para Pruebas Saber Pro
 
 ![Project Status](https://img.shields.io/badge/Estado-En%20Desarrollo-blue?style=for-the-badge)
