@@ -24,14 +24,18 @@
 ---
 
 ## Planteamito del Problema
-> *"La presentación de las pruebas Saber Pro es un requisito fundamental para titularse en Colombia. Sin embargo, no existe una plataforma que acompañe al estudiante de forma estructurada."*
+> *"La presentación de las pruebas Saber Pro es un requisito fundamental para titularse en Colombia. Alcanzar un alto desempeño requiere que el estudiante refuerce sus conocimientos, realice simulacros y analice sistemáticamente sus resultados. 
+
+Sin embargo, actualmente no existe una plataforma especializada que acompañe al estudiante en estas actividades de forma estructurada y eficiente, lo que genera procesos de preparación poco optimizados y una inversión innecesariamente alta de tiempo y esfuerzo para lograr buenos resultados.
+"*
 
 Identificamos tres barreras principales:
 1.  **Falta de Centralización:** Los recursos están dispersos, dificultando el estudio autónomo.
 2.  **Procesos no Optimizados:** Los estudiantes invierten tiempo ineficiente en temas que no dominan o que ya conocen, sin un análisis de datos.
 3.  **Ausencia de Seguimiento:** No hay herramientas que permitan un análisis sistemático de los simulacros.
 
-**Nuestra Solución:** Una plataforma web accesible que centraliza recursos académicos y brinda un entorno flexible para una preparación equitativa y eficiente.
+**Nuestra Solución:** DeepSaffix es una herramienta que agiliza y estructura el proceso de preparación para la prueba Saber Pro. A través de una plataforma especializada, analiza resultados y refuerza actividades de alto impacto, optimizando el tiempo de estudio y haciendo más eficiente el esfuerzo del estudiante para alcanzar un mejor desempeño.
+
 
 ---
 
