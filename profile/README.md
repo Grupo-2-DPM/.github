@@ -23,7 +23,7 @@
 
 ---
 
-## Planteamito del Problema
+## Planteamiento del Problema
 > *"La presentación de las pruebas Saber Pro es un requisito fundamental para titularse en Colombia. Alcanzar un alto desempeño requiere que el estudiante refuerce sus conocimientos, realice simulacros y analice sistemáticamente sus resultados. 
 
 Sin embargo, actualmente no existe una plataforma especializada que acompañe al estudiante en estas actividades de forma estructurada y eficiente, lo que genera procesos de preparación poco optimizados y una inversión innecesariamente alta de tiempo y esfuerzo para lograr buenos resultados.
