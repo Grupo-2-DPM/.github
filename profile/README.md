@@ -147,7 +147,7 @@ El núcleo de DeepSaffix se basa en una estructura relacional sólida diseñada 
 
 <div align="center">
 
-![Modelo Entidad Relacion](./Modelo-ED.png)
+![Modelo Entidad Relacion](./Modelo_ED.png)
 *Diagrama Entidad-Relación (DER) de DeepSaffix*
 
 </div>
